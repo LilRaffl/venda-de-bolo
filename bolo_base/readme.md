@@ -3,4 +3,4 @@
 ## Pagina Inicial
 
 
-<img src="./images/inicial.png" alt="img bolo'> 
+<img src="./inicial.png" alt="img bolo'> 
